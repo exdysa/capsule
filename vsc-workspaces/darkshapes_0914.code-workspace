@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../../.venv_darkshapes"
+		},
+		{
+			"path": "darkshapes/sdbx"
+		},
+		{
+			"path": "darkshapes/singularity"
+		}
+	]
+}

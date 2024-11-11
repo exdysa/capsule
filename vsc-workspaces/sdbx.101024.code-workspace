@@ -1,0 +1,13 @@
+{
+	"folders": [
+		{
+			"path": "../models"
+		},
+		{
+			"path": "sdbx"
+		},
+		{
+			"path": "dev/sdwebui-hfbackup"
+		}
+	]
+}

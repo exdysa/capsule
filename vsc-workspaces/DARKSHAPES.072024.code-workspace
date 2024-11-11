@@ -1,0 +1,16 @@
+{
+	"folders": [
+		{
+			"path": "singularity"
+		},
+		{
+			"path": "sdbx"
+		},
+		{
+			"path": "darkshapes"
+		},
+		{
+			"path": "sdbx-surfaces"
+		}
+	]
+}
